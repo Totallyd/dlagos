@@ -1,5 +1,4 @@
 #About the Project
 
-Digital Lagos provided an opportunity to showcase the profiles of its member organizations and individuals to key local, regional and national audiences.
-
+Digital Lagos.tv support creative media businesses by providing design and imagery for use in Promotion & Public Relations. 
 
