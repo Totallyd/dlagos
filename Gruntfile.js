@@ -118,7 +118,8 @@ module.exports = function(grunt) {
 					'dashboard.html': 'raw-dashboard.html',
 					'admindashboard.html': 'raw-admindashboard.html',
 					'adminlogin.html': 'raw-adminlogin.html',
-					'faq.html': 'raw-faq.html'
+					'faq.html': 'raw-faq.html',
+					'agency-search.html': 'raw-agency-search.html'
 				}
 			},			
 		},		
