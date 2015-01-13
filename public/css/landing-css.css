@@ -1,0 +1,164 @@
+@charset "utf-8";
+/* CSS Document */
+
+header {
+	background:none;
+}
+
+.container-fluid.top {
+	border-bottom:none;
+	/*background:url(../img/bg-landing.png);*/
+	background-color: #efefef;
+}
+
+hr.top {
+	border-bottom:none;
+}
+
+#getstarted_txt {
+	color:#333;
+	font-size:36px;
+	line-height:45px;
+	padding-top:30px;
+	padding-bottom:30px;
+	font-family:"century_gothic", Arial, Helvetica, sans-serif;
+}
+
+.getstarted {
+	padding:0px;
+	margin:0 auto;
+	display:block;
+	font-size:16px;
+	padding-top:1px;
+	max-width:200px;
+	padding-left:1px;
+	font-weight:normal;
+	margin-top:30px; margin-bottom:10px;
+	font-family:"OpenSans_Semibold", Arial, Helvetica, sans-serif;
+}
+
+.getstarted span {
+	padding:18px;
+	display:block;
+	border-radius:5px;
+	padding-left:25px;
+	padding-right:25px;
+	border-top:solid 1px #ffbca5;
+	border-left:solid 1px #ffbca5;
+}
+
+.content {
+	padding-top:20px;
+}
+
+.content h1 {
+	margin:0px;
+	border:none;
+	padding:7px;
+	font-size:30px;
+	color:#333333;
+	background-color: #efefef;
+	font-family:"century_gothic", Arial, Helvetica, sans-serif;
+}
+
+.content h2 {
+	margin:0px;
+	border:none;
+	padding:0px;
+	color:#ff6633;
+	font-size:30px;
+	text-align:center;
+	font-weight:bolder;
+	margin-bottom:10px;
+	text-transform:uppercase;
+	font-family:"century_gothic", Arial, Helvetica, sans-serif;
+}
+
+.content h1 span {
+	color:#333;
+	display:block;
+	font-size:14px;
+	line-height:20px;
+}
+
+#photos {
+	padding-top:20px;
+	padding-bottom:50px;
+}
+
+#photos a img {
+	margin:0px;
+	margin-top:5px;
+	margin-bottom:5px;
+	max-width:100%;	
+}
+
+@media (min-width: 1100px) {
+  #photos {
+	  width:1100px;
+  }
+  #photos a img {
+	  max-width:469px;  /* 469 */
+	  float:left;
+  }
+}
+
+#clients {
+	
+}
+
+#clients ul {
+	margin:0px;
+	padding:0px;
+	list-style:none;
+}
+
+#clients ul:after {
+	clear:both;
+}
+
+#clients ul li {
+	margin:8px;
+	max-width:70px;
+	margin-top:15px;
+	text-align:center;
+	margin-bottom:15px;
+	float:left;
+}
+
+#clients ul li img {
+	
+}
+
+#clients ul li span, #clients ul li a span {
+	display:block;
+	color:#434141;
+	font-size:12px;
+	padding-top:5px;
+	padding-bottom:5px;
+	text-decoration:none;
+	font-family:"OpenSans_Bold", Arial, Helvetica, sans-serif;
+}
+
+.twitter_signup {
+	padding:18px;
+	margin:0 auto;
+	display:block;
+	font-size:18px;
+	max-width:200px;
+	font-weight:normal;
+	padding-left:55px;
+	padding-right:25px;
+	margin-top:30px; margin-bottom:10px;
+	background:url(../img/tw.png) no-repeat 25px center #5db5de;
+	font-family:"OpenSans_Semibold", Arial, Helvetica, sans-serif;
+	
+	-webkit-transition:none !important;
+	-moz-transition:none !important;
+	-o-transition:none !important;
+	transition:none !important;
+}
+
+.twitter_signup:hover {
+	background:url(../img/tw.png) no-repeat 25px center #5db5de;
+}

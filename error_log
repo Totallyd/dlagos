@@ -1,0 +1,121 @@
+[01-Jun-2014 12:55:15 America/Chicago] PHP Warning:  require(/home2/softivot/digitall/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/softivot/digitall/bootstrap/autoload.php on line 17
+[01-Jun-2014 12:55:15 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home2/softivot/digitall/bootstrap/../vendor/autoload.php' (include_path='.:/opt/php54/lib/php') in /home2/softivot/digitall/bootstrap/autoload.php on line 17
+[04-Jun-2014 15:32:06 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home2/softivot/digitall/app/storage/views/f09cd904dd19ab7df7380be75b94f601 on line 15
+[04-Jun-2014 15:32:12 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home2/softivot/digitall/app/storage/views/f09cd904dd19ab7df7380be75b94f601 on line 15
+[04-Jun-2014 15:33:10 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home2/softivot/digitall/app/storage/views/f09cd904dd19ab7df7380be75b94f601 on line 15
+[04-Jun-2014 15:33:25 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home2/softivot/digitall/app/storage/views/f09cd904dd19ab7df7380be75b94f601 on line 15
+[05-Jun-2014 17:40:05 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home2/softivot/digitall/app/storage/views/f09cd904dd19ab7df7380be75b94f601 on line 15
+[06-Jun-2014 18:16:14 UTC] PHP Fatal error:  Class 'admin\Input' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 31
+[06-Jun-2014 18:17:00 UTC] PHP Fatal error:  Class 'admin\Input' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 31
+[06-Jun-2014 18:17:33 UTC] PHP Fatal error:  Class 'admin\Input' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 31
+[06-Jun-2014 18:18:42 UTC] PHP Fatal error:  Class 'admin\Input' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 31
+[06-Jun-2014 18:22:03 UTC] PHP Fatal error:  Class 'admin\Input' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 31
+[06-Jun-2014 18:39:47 UTC] PHP Fatal error:  Class 'admin\Validator' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 36
+[06-Jun-2014 18:40:18 UTC] PHP Fatal error:  Class 'admin\Validator' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 36
+[06-Jun-2014 18:41:04 UTC] PHP Fatal error:  Class 'admin\Validator' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 34
+[06-Jun-2014 18:51:52 UTC] PHP Fatal error:  Class 'admin\Validator' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 44
+[06-Jun-2014 18:59:51 UTC] PHP Fatal error:  Class 'admin\Validator' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 44
+[06-Jun-2014 19:00:21 UTC] PHP Fatal error:  Class 'admin\Validator' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 44
+[06-Jun-2014 19:03:31 UTC] PHP Fatal error:  Class 'admin\Validator' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 44
+[06-Jun-2014 19:05:33 UTC] PHP Fatal error:  Class 'admin\Validator' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 44
+[06-Jun-2014 19:07:06 UTC] PHP Fatal error:  Class 'admin\Validator' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 44
+[06-Jun-2014 19:07:39 UTC] PHP Fatal error:  Class 'admin\Validator' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 44
+[06-Jun-2014 19:08:17 UTC] PHP Fatal error:  Class 'admin\Validator' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 44
+[06-Jun-2014 19:10:04 UTC] PHP Fatal error:  Class 'admin\Validator' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 42
+[06-Jun-2014 19:12:35 UTC] PHP Fatal error:  Class 'admin\Validator' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 42
+[06-Jun-2014 19:13:08 UTC] PHP Fatal error:  Class 'admin\Validator' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 42
+[06-Jun-2014 19:15:12 UTC] PHP Fatal error:  Class 'admin\Validator' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 42
+[06-Jun-2014 19:21:29 UTC] PHP Fatal error:  Class 'admin\Validator' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 42
+[06-Jun-2014 19:25:15 UTC] PHP Fatal error:  Class 'admin\Input' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 43
+[06-Jun-2014 19:26:42 UTC] PHP Fatal error:  Class 'admin\Validator' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 42
+[06-Jun-2014 19:27:42 UTC] PHP Fatal error:  Class 'admin\Validator' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 42
+[06-Jun-2014 19:32:37 UTC] PHP Fatal error:  Class 'admin\Input' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 15
+[06-Jun-2014 19:32:41 UTC] PHP Fatal error:  Class 'admin\Input' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 15
+[06-Jun-2014 19:33:27 UTC] PHP Fatal error:  Class 'admin\Input' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 15
+[06-Jun-2014 19:36:06 UTC] PHP Fatal error:  Class 'admin\Input' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 15
+[06-Jun-2014 19:36:20 UTC] PHP Fatal error:  Class 'admin\Input' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 15
+[06-Jun-2014 19:36:22 UTC] PHP Fatal error:  Class 'admin\Input' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 15
+[06-Jun-2014 19:37:11 UTC] PHP Fatal error:  Class 'admin\Input' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 15
+[06-Jun-2014 19:37:14 UTC] PHP Fatal error:  Class 'admin\Input' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 15
+[06-Jun-2014 19:41:22 UTC] PHP Fatal error:  Class 'admin\Input' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 32
+[06-Jun-2014 19:42:08 UTC] PHP Fatal error:  Class 'admin\Validator' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 42
+[06-Jun-2014 19:42:13 UTC] PHP Fatal error:  Class 'admin\Validator' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 42
+[06-Jun-2014 19:43:37 UTC] PHP Fatal error:  Class 'admin\View' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 49
+[06-Jun-2014 19:44:11 UTC] PHP Fatal error:  Class 'admin\Input' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 32
+[07-Jun-2014 08:34:17 UTC] PHP Fatal error:  Class 'admin\Input' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 32
+[07-Jun-2014 08:36:10 UTC] PHP Fatal error:  Class 'admin\Input' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 32
+[07-Jun-2014 08:40:53 UTC] PHP Fatal error:  Class 'admin\Validator' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 43
+[07-Jun-2014 08:42:00 UTC] PHP Fatal error:  Class 'admin\Validator' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 44
+[07-Jun-2014 12:04:33 UTC] PHP Fatal error:  Class 'admin\Validator' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 44
+[07-Jun-2014 12:06:10 UTC] PHP Fatal error:  Class 'admin\BaseController' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 8
+[07-Jun-2014 12:07:29 UTC] PHP Fatal error:  Class 'admin\BaseController' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 8
+[07-Jun-2014 12:17:41 UTC] PHP Fatal error:  Class 'admin\Validator' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 45
+[07-Jun-2014 12:22:35 UTC] PHP Fatal error:  Class 'admin\Validator' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 45
+[07-Jun-2014 12:23:17 UTC] PHP Fatal error:  Call to undefined method Illuminate\Validation\Validator::make() in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 45
+[07-Jun-2014 12:28:46 UTC] PHP Fatal error:  Class 'admin\Auth' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 23
+[07-Jun-2014 12:38:10 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE), expecting ',' or ';' in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 6
+[07-Jun-2014 17:51:37 UTC] PHP Fatal error:  Class 'admin\Hash' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 25
+[07-Jun-2014 18:57:49 UTC] PHP Parse error:  syntax error, unexpected '/', expecting '{' in /home2/softivot/digitall/app/controllers/admin/DashboardController.php on line 3
+[08-Jun-2014 08:47:23 UTC] PHP Fatal error:  Class 'admin\Password' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 81
+[08-Jun-2014 08:48:11 UTC] PHP Fatal error:  Class 'admin\Lang' not found in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 69
+[08-Jun-2014 09:28:41 UTC] PHP Fatal error:  Cannot redeclare admin\UserController::resetPassword() in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 110
+[08-Jun-2014 17:39:45 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 96
+[11-Jun-2014 15:14:06 UTC] PHP Parse error:  syntax error, unexpected 'endfor' (T_ENDFOR) in /home2/softivot/digitall/app/storage/views/3391dfc958cedc394b3b6236fadc1f1a on line 19
+[11-Jun-2014 15:15:09 UTC] PHP Parse error:  syntax error, unexpected 'endfor' (T_ENDFOR) in /home2/softivot/digitall/app/storage/views/3391dfc958cedc394b3b6236fadc1f1a on line 19
+[11-Jun-2014 16:07:42 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/softivot/digitall/app/storage/views/f09cd904dd19ab7df7380be75b94f601 on line 17
+[11-Jun-2014 16:10:05 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/softivot/digitall/app/storage/views/f09cd904dd19ab7df7380be75b94f601 on line 67
+[11-Jun-2014 17:38:16 UTC] PHP Fatal error:  Class 'URI' not found in /home2/softivot/digitall/app/storage/views/f09cd904dd19ab7df7380be75b94f601 on line 39
+[11-Jun-2014 17:38:17 UTC] PHP Fatal error:  Class 'URI' not found in /home2/softivot/digitall/app/storage/views/f09cd904dd19ab7df7380be75b94f601 on line 39
+[12-Jun-2014 12:12:22 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 253576371 bytes) in /home2/softivot/digitall/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php on line 44
+[12-Jun-2014 12:12:41 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 253462935 bytes) in /home2/softivot/digitall/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php on line 44
+[12-Jun-2014 12:34:06 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/softivot/digitall/app/storage/views/f09cd904dd19ab7df7380be75b94f601 on line 41
+[13-Jun-2014 03:29:21 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home2/softivot/digitall/app/storage/views/f09cd904dd19ab7df7380be75b94f601 on line 21
+[14-Jun-2014 15:44:43 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/softivot/digitall/app/controllers/admin/UserController.php on line 24
+[15-Jun-2014 05:47:55 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home2/softivot/digitall/app/storage/views/d94020d94147b7dfe829a7bdaaa4db1c on line 20
+[04-Jul-2014 18:24:07 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home2/softivot/digitall/app/storage/views/97ed0de70159e02d2f548bc822235ef6 on line 154
+[09-Aug-2014 19:08:06 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home2/softivot/digitall/app/storage/views/97ed0de70159e02d2f548bc822235ef6 on line 130
+[09-Aug-2014 19:09:32 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home2/softivot/digitall/app/storage/views/97ed0de70159e02d2f548bc822235ef6 on line 130
+[18-Aug-2014 08:04:15 UTC] PHP Fatal error:  Class UserProfile contains 6 abstract methods and must therefore be declared abstract or implement the remaining methods (Illuminate\Auth\UserInterface::getAuthIdentifier, Illuminate\Auth\UserInterface::getAuthPassword, Illuminate\Auth\UserInterface::getRememberToken, ...) in /home2/softivot/digitall/app/models/UserProfile.php on line 44
+[18-Aug-2014 09:58:11 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home2/softivot/digitall/app/storage/views/045a146ac5a9ac501662c550a2d0e054 on line 8
+[18-Aug-2014 12:41:38 UTC] PHP Parse error:  syntax error, unexpected 'uses' (T_STRING), expecting '{' in /home2/softivot/digitall/app/controllers/RegistrationController.php on line 105
+[18-Aug-2014 12:44:04 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE), expecting '(' in /home2/softivot/digitall/app/controllers/RegistrationController.php on line 105
+[18-Aug-2014 12:45:16 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: date' in /home2/softivot/digitall/app/storage/views/d54aff7c502ad7cb233ef6920c6c94df:19
+Stack trace:
+#0 /home2/softivot/digitall/app/storage/views/d54aff7c502ad7cb233ef6920c6c94df(19): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home2/softivot...', 19, Array)
+#1 /home2/softivot/digitall/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(37): include('/home2/softivot...')
+#2 /home2/softivot/digitall/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(56): Illuminate\View\Engines\PhpEngine->evaluatePath('/home2/softivot...', Array)
+#3 /home2/softivot/digitall/vendor/laravel/framework/src/Illuminate/View/View.php(134): Illuminate\View\Engines\CompilerEngine->get('/home2/softivot...', Array)
+#4 /home2/softivot/digitall/vendor/laravel/framework/src/Illuminate/View/View.php(102): Illuminate\View\View->getContents()
+#5 /home2/softivot/digitall/vendor/laravel/framework/src/Illuminate/View in /home2/softivot/digitall/app/storage/views/d54aff7c502ad7cb233ef6920c6c94df on line 19
+[18-Aug-2014 12:45:16 UTC] PHP Fatal error:  Function name must be a string in /home2/softivot/digitall/app/storage/views/d54aff7c502ad7cb233ef6920c6c94df on line 19
+[25-Aug-2014 19:11:47 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home2/softivot/digitall/app/controllers/HomeController.php on line 196
+[27-Aug-2014 18:18:12 UTC] PHP Parse error:  syntax error, unexpected 'find' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home2/softivot/digitall/app/controllers/MemberDashboardController.php on line 56
+[28-Aug-2014 17:01:03 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/softivot/digitall/app/storage/views/97ed0de70159e02d2f548bc822235ef6 on line 49
+[28-Aug-2014 17:59:07 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/softivot/digitall/app/controllers/MemberDashboardController.php on line 87
+[30-Aug-2014 06:18:50 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: id' in /home2/softivot/digitall/app/controllers/HomeController.php:122
+Stack trace:
+#0 /home2/softivot/digitall/app/controllers/HomeController.php(122): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home2/softivot...', 122, Array)
+#1 /home2/softivot/digitall/app/controllers/HomeController.php(100): HomeController->getPasswordRemindResponse()
+#2 [internal function]: HomeController->forgotPassword()
+#3 /home2/softivot/digitall/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(231): call_user_func_array(Array, Array)
+#4 /home2/softivot/digitall/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('forgotpassword', Array)
+#5 /home2/softivot/digitall/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(HomeController), Object(Illuminate\Routing\Route), 'forgotpassword in /home2/softivot/digitall/app/controllers/HomeController.php on line 122
+[30-Aug-2014 06:18:50 UTC] PHP Fatal error:  Cannot access empty property in /home2/softivot/digitall/app/controllers/HomeController.php on line 122
+[30-Aug-2014 06:25:31 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: id' in /home2/softivot/digitall/app/controllers/HomeController.php:101
+Stack trace:
+#0 /home2/softivot/digitall/app/controllers/HomeController.php(101): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home2/softivot...', 101, Array)
+#1 [internal function]: HomeController->forgotPassword()
+#2 /home2/softivot/digitall/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(231): call_user_func_array(Array, Array)
+#3 /home2/softivot/digitall/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('forgotpassword', Array)
+#4 /home2/softivot/digitall/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(HomeController), Object(Illuminate\Routing\Route), 'forgotpassword')
+#5 /home2/softivot/digitall/vendor/laravel/framework/src/Illuminate/Routing/Router.php(934): Illuminate\Routin in /home2/softivot/digitall/app/controllers/HomeController.php on line 101
+[30-Aug-2014 06:25:31 UTC] PHP Fatal error:  Cannot access empty property in /home2/softivot/digitall/app/controllers/HomeController.php on line 101
+[30-Aug-2014 20:05:58 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home2/softivot/digitall/app/controllers/HomeController.php on line 164
+[29-Sep-2014 06:13:46 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/digitall/digitall/app/controllers/HomeController.php on line 58
+[29-Sep-2014 06:25:54 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/digitall/digitall/app/controllers/HomeController.php on line 58
+[29-Sep-2014 06:28:03 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/digitall/digitall/app/controllers/HomeController.php on line 58
+[29-Sep-2014 06:30:31 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/digitall/digitall/app/controllers/HomeController.php on line 100
+[29-Sep-2014 06:31:40 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/digitall/digitall/app/controllers/HomeController.php on line 119
+[29-Sep-2014 07:07:40 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/digitall/digitall/app/controllers/admin/UserController.php on line 29
+[30-Sep-2014 05:07:12 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/digitall/digitall/app/controllers/RegistrationController.php on line 189
+[30-Sep-2014 06:45:12 UTC] PHP Fatal error:  Class 'PDO' not found in /home/digitall/digitall/app/config/database.php on line 16
