@@ -119,7 +119,13 @@ module.exports = function(grunt) {
 					'admindashboard.html': 'raw-admindashboard.html',
 					'adminlogin.html': 'raw-adminlogin.html',
 					'faq.html': 'raw-faq.html',
-					'agency-search.html': 'raw-agency-search.html'
+					'agency-search.html': 'raw-agency-search.html',
+					'agency-details.html': 'raw-agency-details.html',
+					'subadmin.html': 'raw-subadmin.html',
+					'services.html': 'raw-services.html',
+					'add-edit-user.html': 'raw-add-edit-user.html',
+					'contactus.html': 'raw-contactus.html',
+					'manage-settings.html': 'raw-manage-settings.html'
 				}
 			},			
 		},		
